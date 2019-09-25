@@ -3,7 +3,7 @@ This is Java program for demonstrating Cohen Sutherland Line Clipping Algorithm.
 I have defined every component stepwise cosidering object-oriented approach.<br />
 Interface of Project is designed using java Swing.<br />
 Here is presentation of my actual Projects:<br/>
-https://user-images.githubusercontent.com/34531635/65632245-d3362280-dff6-11e9-9de5-e7face15cd24.gif
+![Cohen Sutherland Line Clipping_Final](https://user-images.githubusercontent.com/34531635/65632368-26a87080-dff7-11e9-8c37-e9b6b05750cd.gif)
 
 <br />
 To run This Program Just clone my repository and build it using Netbeans IDE.<br />
